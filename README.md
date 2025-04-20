@@ -1,2 +1,3 @@
 # Simple-Interest-Calculator
 Estou animado para compartilhar meu novo projeto, a Calculadora de Juros Simples! Este é meu segundo projeto em Python durante a faculdade e foi uma ótima experiência para colocar em prática o que estou aprendendo. Se tiverem algum feedback ou sugestão, ficarei feliz em ouvir!  Se quiser ajustar algo ou adicionar mais detalhes, é só avisar! 
+"I'm excited to share my new project, the Simple Interest Calculator! 🎉 This is my second Python project during college and it was a great experience to put into practice what I'm learning. If you have any feedback or suggestions, I'd be happy to hear them! 😊"
